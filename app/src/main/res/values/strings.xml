@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudyApp</string>
+    <string name="press_again">再按一次退出程序</string>
+    <string name="empty_view_hint">暂无数据</string>
+    <string name="error_view_hint">加载失败</string>
+    <string name="no_network_view_hint">网络异常</string>
+
+    <string-array name="main_tab">
+        <item>首页</item>
+        <item>美图</item>
+        <item>菜谱</item>
+        <item>我的</item>
+    </string-array>
+
+</resources>
